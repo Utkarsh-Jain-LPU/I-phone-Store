@@ -1,0 +1,8 @@
+
+ CPU : 2.34 GHz
+ Weight : 138g
+ Memory : 2 GB
+ Graphics : 7XT+
+ Display : 1334X750
+ Battery : 1960 mAh
+ Release : Sept 16, 2016

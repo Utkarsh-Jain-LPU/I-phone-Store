@@ -1,0 +1,8 @@
+
+ CPU : 2.5 GHz
+ Weight : 148g
+ Memory : 2 GB
+ Graphics : 9XT+
+ Display : 1334X750
+ Battery : 1821 mAh
+ Release : Sept 22, 2017

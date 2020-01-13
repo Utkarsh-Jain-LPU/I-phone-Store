@@ -1,0 +1,8 @@
+
+ CPU : 1.3 GHz
+ Weight : 112g
+ Memory : 1 GB
+ Display : 1136X640
+ Battery : 1440 mAh
+ Graphics : SGX543MP3
+ Release : Sept 21, 2012

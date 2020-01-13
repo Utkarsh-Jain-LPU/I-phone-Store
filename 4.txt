@@ -1,0 +1,8 @@
+ 
+ CPU : 800 MHz
+ Weight : 137g
+ Memory : 512 MB
+ Display : 960X640
+ Graphics : SGX535
+ Battery : 1420 mAh
+ Release : June 24, 2010

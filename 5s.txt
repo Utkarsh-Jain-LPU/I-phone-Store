@@ -1,0 +1,8 @@
+
+ CPU : 1.3 GHz
+ Weight : 112g
+ Memory : 1 GB
+ Graphics : G6430
+ Display : 1136X640
+ Battery : 1560 mAh
+ Release : Sept 20, 2013

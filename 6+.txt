@@ -1,0 +1,8 @@
+
+ CPU : 1.4 GHz
+ Weight : 172g
+ Memory : 1 GB
+ Graphics : GX6450
+ Display : 1920X1080
+ Battery : 2915 mAh
+ Release : Sept 19, 2014

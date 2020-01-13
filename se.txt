@@ -1,0 +1,8 @@
+
+ CPU : 1.85 GHz
+ Weight : 113g
+ Memory : 2 GB
+ Graphics : GT7600
+ Display : 1136X640
+ Battery : 1624 mAh
+ Release : March 31, 2016
